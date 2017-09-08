@@ -1,0 +1,9 @@
+name: KnockbackFFA
+author: GewaltigerZorn
+version: 1.0
+main: de.gewaltigerzorn.main.Main
+
+commands:
+  knockback:
+    description: Zum einstellen des Plugins
+    aliases: [knockbackffa, kb]
